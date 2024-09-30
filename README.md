@@ -14,15 +14,6 @@
 
 ---
 
-## <span style="color: #2e7d32;">🌐 Connect with me</span>
-<div align="center">
-  <a href="https://app.daily.dev/mohan22">
-    <img src="https://api.daily.dev/devcards/v2/pVT6RXoTKpCGoULqzw0tv.png?r=za0" width="200" alt="Mohan's Dev Card"/>
-  </a>
-</div>
-
----
-
 ## <span style="color: #2e7d32;">📊 GitHub Stats</span>
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
