@@ -13,6 +13,4 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-![Profile Views](https://visitcount.itsvg.in/api?id=mohan00710&icon=0&color=0)
-
 </div>
