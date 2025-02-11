@@ -12,28 +12,6 @@
 ![Aptos](https://img.shields.io/badge/Aptos-000000?style=for-the-badge&logo=aptos&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-
-## <span style="color: #2e7d32;">📊 GitHub Stats</span>
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohan00710&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="350px" alt="Mohan's GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan00710&theme=radical&hide_border=false" width="350px" alt="Mohan's GitHub Streak" />
-  </div>
-  <div style="margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan00710&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350px" alt="Top Languages" />
-  </div>
-</div>
-
----
-
-## <span style="color: #2e7d32;">🏆 GitHub Trophies</span>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohan00710&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Mohan's Trophies" />
-</div>
-
----
-
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=mohan00710&icon=0&color=0)
 
